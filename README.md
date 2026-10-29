@@ -1,1 +1,1 @@
-# bionic_hand_demo
+Thought-Controlled Bionic Hand
